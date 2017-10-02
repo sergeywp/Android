@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tap The Sergo!!!</string>
+    <string name="action_settings">Выбери своего Серго</string>
+    <string name="action_back_to_game">Назад в игру!</string>
+</resources>
